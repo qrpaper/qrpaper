@@ -10,7 +10,7 @@ Salute to Satoshi, every blockchain project should mint their white paper on Bit
 
 ## Why qrpaper
 1. qrpaper is the first project who helps users mint their white paper on Bitcoin use ordinals protocol
-2. qrpaper optimized the NFT image generation technology, compressed the data size to the limit, it reduced the mint cost
+2. qrpaper optimized the NFT image generation technology, compressed the data size to the limit, it greatly reduced the mint gas
 3. qrpaper use qrpaper.sats domain to sign every NFT to ensure no one can fake it
 4. qrpaper split and visualized the white paper to qrcode, which has a beautiful style, it is easy to spread
 5. qrpaper is governed by community through qp-dao, it's a decentralized project
@@ -27,9 +27,9 @@ Salute to Satoshi, every blockchain project should mint their white paper on Bit
 3. the taproot address is: **bc1p3lpgz3246uqc87zp8ex7s7q6xka0z9g0djv9n0e2a3gqqlcetl4stwgrqd**
 
 ## qp-dao
-next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) will have the right to join.
+next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
 
-## cooperate
+## Cooperate
 as a project please contact us through email, we can help you with:
 1. generate qrpaper NFT image of your white paper freely
 2. promote your project on our social media and community freely
