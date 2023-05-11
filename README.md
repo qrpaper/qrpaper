@@ -29,13 +29,18 @@ Salute to Satoshi, every blockchain project should mint their white paper on Bit
 ## qp-dao
 next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
 
+## core-qrpaper
+* [qrpaper-bitcoin](qrpaper-bitcoin/README.md)
+* [qrpaper-ethereum](qrpaper-ethereum/README.md)
+* [qrpaper-qrpaper](qrpaper-qrpaper/README.md)
+
 ## Cooperate
 as a project please contact us through email, we can help you with:
 1. generate qrpaper NFT image of your white paper freely
 2. promote your project on our social media and community freely
 
 ## Contact us
-1. you can create issues here: <https://github.com/qrpaper/qrpaper/issues>
-2. you can send an email to us: <coffeeking001@outlook.com>
-3. you can create tickets in discord: <https://discord.gg/3MjNRBhuRv>
-4. you can follow our twitter: <https://twitter.com/qrpaper_sats>
+1. issues: <https://github.com/qrpaper/qrpaper/issues>
+2. email: <coffeeking001@outlook.com>
+3. discord: <https://discord.gg/3MjNRBhuRv>
+4. twitter: <https://twitter.com/qrpaper_sats>
