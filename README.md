@@ -3,6 +3,11 @@
 ## Slogan
 Salute to Satoshi, every blockchain project should mint their white paper on Bitcoin.
 
+## introduction
+qrpaper converts the white paper into a plain text markdown format, 
+and after splitting it into sentences, encodes each sentence into a QR code, 
+signs it and mints it on Bitcoin with Ordinals Protocol for permanent storage.
+
 ## Why bitcoin
 1. Bitcoin is the first blockchain, it is the chain with the highest degree of consensus and the highest security
 2. Bitcoin ordinals protocol, storing all of the NFT data on the chain, it would not be lost forever
