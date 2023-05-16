@@ -3,7 +3,7 @@
 ## Slogan
 Salute to Satoshi, every blockchain project should mint their white paper on Bitcoin.
 
-## introduction
+## Introduction
 qrpaper converts the white paper into a plain text markdown format, 
 and after splitting it into sentences, encodes each sentence into a QR code, 
 signs it and mints it on Bitcoin with Ordinals Protocol for permanent storage.
