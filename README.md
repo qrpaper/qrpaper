@@ -3,6 +3,14 @@
 ## Slogan
 Salute to Satoshi, every blockchain project should mint their white paper on Bitcoin.
 
+## Significance
+As the earliest blockchain, Bitcoin's value mainly comes from consensus, 
+but it is also constantly facing challenges from other public chains. 
+In order to consolidate the value of Bitcoin, we put forward the slogan 
+"Salute to Satoshi, every blockchain project should mint their white paper on Bitcoin", 
+which is not only conducive to continuously strengthening the consensus of Bitcoin, 
+but also It is beneficial for new projects to be understood and accepted by Bitcoin users.
+
 ## Introduction
 qrpaper converts the white paper into a plain text markdown format, 
 and after splitting it into sentences, encodes each sentence into a QR code, 
