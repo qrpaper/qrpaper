@@ -42,7 +42,8 @@ signs it and mints it on Bitcoin with Ordinals Protocol for permanent storage.
 3. the taproot address is: **bc1p3lpgz3246uqc87zp8ex7s7q6xka0z9g0djv9n0e2a3gqqlcetl4stwgrqd**
 
 ## qp-dao
-Next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
+Next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) 
+will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
 
 ## core-qrpaper
 * [qrpaper-bitcoin](qrpaper-bitcoin/README.md)
@@ -61,6 +62,13 @@ As project, please contact us through email, we can help you with:
 4. twitter: <https://twitter.com/qrpaper_sats>
 
 ## Example
-This is an example qrpaper, which include the first fragment of the Bitcoin White Paper.
+This is an example qrpaper, which include the first fragment of the Bitcoin White Paper. 
+The size of it is only about 1KB, it's very cheap to mint it on Bitcoin chain.
+
+The image contains four part mainly:
+1. the qrcode imformation in the whole image
+2. the bitcoin logo in the middle
+3. the qrpaper logo in the bottom right corner
+4. the serial number in the foot
 
 ![](docs/img/first_147.png)
