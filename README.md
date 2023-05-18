@@ -63,7 +63,7 @@ As project, please contact us through email, we can help you with:
 
 ## Example
 This is an example qrpaper, which include the first fragment of the Bitcoin White Paper. 
-The size of it is only about 1KB, it's very cheap to mint it on Bitcoin chain.
+The size of it is only about 1~2KB, it's very cheap to mint on Bitcoin chain.
 
 The image contains four part mainly:
 1. the qrcode imformation in the whole image
