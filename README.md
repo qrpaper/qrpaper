@@ -71,4 +71,4 @@ The image contains four part mainly:
 3. the qrpaper logo in the bottom right corner
 4. the serial number in the foot
 
-![](docs/img/first_147.png)
+![](docs/img/first_441.png)
