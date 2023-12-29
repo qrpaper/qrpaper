@@ -1,13 +1,13 @@
 # qrpaper 
 
 ## Slogan
-Salute to Satoshi, every blockchain project should inscribe their white paper on Bitcoin.
+Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 
 ## Significance
 As the earliest blockchain, Bitcoin's value mainly comes from consensus, 
 but it is also constantly facing challenges from other public chains. 
 In order to consolidate the value of Bitcoin, we put forward the slogan 
-"Salute to Satoshi, every blockchain project should inscribe their white paper on Bitcoin", 
+"Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin", 
 which is not only conducive to continuously strengthening the consensus of Bitcoin, 
 but also It is beneficial for new projects to be understood and accepted by Bitcoin users.
 
