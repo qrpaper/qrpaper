@@ -1,6 +1,6 @@
 # qrpaper-bitcoin
 
-there is 600-NFTs and 7-img you can inscribe
+there is 600-NFTs and 7-img you can inscribe in **"img"** and **"nfts"** directory
 
 all of them are inscribing fairly from 2024/1/3 18:15:05 UTC #BitcoinFirstBlock 15th
 
