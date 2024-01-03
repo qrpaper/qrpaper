@@ -46,9 +46,9 @@ Next, we will start the qp-dao, everyone who holds the NFT of the three core qrp
 will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
 
 ## core-qrpaper
-* [qrpaper-bitcoin](qrpaper-bitcoin/README.md)
-* [qrpaper-ethereum](qrpaper-ethereum/README.md)
-* [qrpaper-qrpaper](qrpaper-qrpaper/README.md)
+* [qrpaper-bitcoin](./qrpaper-bitcoin/)
+* [qrpaper-ethereum](./qrpaper-ethereum/)
+* [qrpaper-qrpaper](./qrpaper-qrpaper/)
 
 ## Cooperate
 As project, please contact us through email, we can help you with:
