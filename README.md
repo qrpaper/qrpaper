@@ -42,13 +42,13 @@ signs it and inscribe it on Bitcoin with Ordinals Protocol for permanent storage
 3. the taproot address is: **bc1p3lpgz3246uqc87zp8ex7s7q6xka0z9g0djv9n0e2a3gqqlcetl4stwgrqd**
 
 ## qp-dao
-Next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and qrpaper) 
+Next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
 will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
 
 ## core-qrpaper
 * [qrpaper-bitcoin](./qrpaper-bitcoin/)
 * [qrpaper-ethereum](./qrpaper-ethereum/)
-* [qrpaper-qrpaper](./qrpaper-qrpaper/)
+* [qrpaper-ordinals](./qrpaper-ordinals/)
 
 ## Cooperate
 As project, please contact us through email, we can help you with:
@@ -58,8 +58,9 @@ As project, please contact us through email, we can help you with:
 ## Contact us
 1. issues: <https://github.com/qrpaper/qrpaper/issues>
 2. email: <coffeeking001@outlook.com>
-3. discord: <https://discord.gg/3MjNRBhuRv>
-4. twitter: <https://twitter.com/qrpaper_sats>
+3. telegram: <https://t.me/qrpaper>
+4. discord: <https://discord.gg/3MjNRBhuRv>
+5. twitter: <https://twitter.com/qrpaper_sats>
 
 ## Example
 This is an example qrpaper, which include the first fragment of the Bitcoin White Paper. 
