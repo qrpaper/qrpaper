@@ -32,12 +32,6 @@ Everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordin
 will have the right to join. And you will have the benifits like airdrop, whitelist, 
 vote, reward and vip-role to read our crypto project research report.
 
-## RoadMap
-1. Publish the three core qrpaper(bitcoin, ethereum and ordinals) 
-2. Build qp-dao and the core team to do crypto project research
-3. Help other crypto project to publish whitepaper on bitcoin 
-4. waiting for more suggestions from community...
-
 ## Economic
 The core team consists of holders of Bitcoin, Ethereum, and Ordinals WhitePaper NFT, 
 who conduct research on early-stage crypto projects, assist in the publish of 
@@ -50,6 +44,12 @@ Non-core members holding NFTs from other projects will receive OG-role (Original
 in those projects and will receive ongoing reward from the respective projects.
 
 ![](docs/img/economic_model.jpg)
+
+## RoadMap
+1. Publish the three core qrpaper(bitcoin, ethereum and ordinals) 
+2. Build qp-dao and the core team to do crypto project research
+3. Help other crypto project to publish whitepaper on bitcoin 
+4. waiting for more suggestions from community...
 
 ## Why bitcoin
 1. Bitcoin is the first blockchain, it is the chain with the highest degree of consensus and the highest security
