@@ -28,7 +28,7 @@ but also It is beneficial for new projects to be understood and accepted by Bitc
 ![](docs/img/significance.jpg)
 
 ## qp-dao
-Everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
+People who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
 will have the right to join. And you will have benifits like airdrop, whitelist, 
 vote, reward and vip-role to read our crypto project research report.
 
