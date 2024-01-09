@@ -9,9 +9,11 @@ Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 3. It has a robust economic model, capable of long-term and sustainable growth.
 
 ## Introduction
-qrpaper converts the white paper into a plain text markdown format, 
-and after splitting it into sentences, encodes each sentence into a QR code, 
-signs it and inscribe it on Bitcoin with Ordinals Protocol for permanent storage.
+qrpaper is a project who help crypto project publish whitepaper on Bitcoin 
+with **Bitcoin WhitePaper Sharding** technology. It converts the whitepaper into 
+plain text format of markdown, and after splitting it into sentences, 
+encodes each sentence into a QR code, signs it and inscribe it on Bitcoin 
+with Ordinals Protocol for permanent storage.
 
 ![](docs/img/qrpaper_theory.jpg)
 
@@ -52,13 +54,13 @@ in those projects and will receive ongoing reward from the respective projects.
 ## Why bitcoin
 1. Bitcoin is the first blockchain, it is the chain with the highest degree of consensus and the highest security
 2. Bitcoin ordinals protocol, storing all of the NFT data on the chain, it would not be lost forever
-3. Bitcoin has the largest TVL, inscribing your project white paper on Bitcoin is very memorable and advantageous 
+3. Bitcoin has the largest TVL, inscribing your project whitepaper on Bitcoin is very memorable and advantageous 
 
 ## Why qrpaper
-1. qrpaper is the first project who helps users inscribe their white paper on Bitcoin use ordinals protocol
+1. qrpaper is the first project who helps users inscribe their whitepaper on Bitcoin use ordinals protocol
 2. qrpaper optimized the NFT image generation technology, compressed the data size to the limit, it greatly reduced the gas
 3. qrpaper use qrpaper.sats domain to sign every NFT to ensure no one can fake it
-4. qrpaper split and visualized the white paper to qrcode, which has a beautiful style, it is easy to spread
+4. qrpaper split and visualized the whitepaper to qrcode, which has a beautiful style, it is easy to spread
 5. qrpaper is governed by community through qp-dao, it's a decentralized project
 
 ## How to inscribe
@@ -79,7 +81,7 @@ in those projects and will receive ongoing reward from the respective projects.
 
 ## Cooperate
 As project, please contact us through email, we can help you with:
-1. generate qrpaper NFT image of your white paper freely
+1. generate qrpaper NFT image of your whitepaper freely
 2. promote your project on our social media and community freely
 
 ## Contact us
