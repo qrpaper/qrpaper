@@ -9,8 +9,8 @@ Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 3. It has a robust economic model, capable of long-term and sustainable growth.
 
 ## Introduction
-qrpaper is a project who help crypto project publish whitepaper on Bitcoin 
-with **Bitcoin WhitePaper Sharding** technology. It converts the whitepaper into 
+qrpaper is a project who help crypto project publish whitepaper on Bitcoin with 
+**WhitePaper Sharding Technology**. It converts the whitepaper into 
 plain text format of markdown, and after splitting it into sentences, 
 encodes each sentence into a QR code, signs it and inscribe it on Bitcoin 
 with Ordinals Protocol for permanent storage.
