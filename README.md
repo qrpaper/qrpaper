@@ -3,6 +3,11 @@
 ## Slogan
 Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 
+## Features
+1. This is a Bitcoin-native NFT, distinct from other PFP projects are copy from Ethereum.
+2. It's core mission is to strengthen the consensus of the Bitcoin, serving a practical purpose.
+3. It has a robust economic model, capable of long-term and sustainable growth.
+
 ## Introduction
 qrpaper converts the white paper into a plain text markdown format, 
 and after splitting it into sentences, encodes each sentence into a QR code, 
@@ -20,17 +25,18 @@ but also It is beneficial for new projects to be understood and accepted by Bitc
 
 ![](docs/img/significance.jpg)
 
-## Feature
-1. This is a Bitcoin-native NFT, distinct from other PFP projects are copy from Ethereum.
-2. It's core mission is to strengthen the consensus of the Bitcoin, serving a practical purpose.
-3. It has a robust economic model, capable of long-term and sustainable growth.
-
 ## qp-dao
 Everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
 will have the right to join. And you will have the benifits like airdrop, whitelist, 
 vote, reward and vip-role to read our crypto project research report.
 
-## economic
+## RoadMap
+1. Publish the three core qrpaper(bitcoin, ethereum and ordinals) 
+2. Build qp-dao and the core team to do crypto project research
+3. Help other crypto project to publish whitepaper on bitcoin 
+4. waiting for more suggestions from community...
+
+## Economic
 The core team consists of holders of Bitcoin, Ethereum, and Ordinals WhitePaper NFT, 
 who conduct research on early-stage crypto projects, assist in the publish of 
 WhitePaper NFTs, and provide support for promote.
