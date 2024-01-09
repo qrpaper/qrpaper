@@ -3,6 +3,13 @@
 ## Slogan
 Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 
+## Introduction
+qrpaper converts the white paper into a plain text markdown format, 
+and after splitting it into sentences, encodes each sentence into a QR code, 
+signs it and inscribe it on Bitcoin with Ordinals Protocol for permanent storage.
+
+![](docs/img/qrpaper_theory.jpg)
+
 ## Significance
 As the earliest blockchain, Bitcoin's value mainly comes from consensus, 
 but it is also constantly facing challenges from other public chains. 
@@ -11,12 +18,30 @@ In order to consolidate the value of Bitcoin, we put forward the slogan
 which is not only conducive to continuously strengthening the consensus of Bitcoin, 
 but also It is beneficial for new projects to be understood and accepted by Bitcoin users.
 
-## Introduction
-qrpaper converts the white paper into a plain text markdown format, 
-and after splitting it into sentences, encodes each sentence into a QR code, 
-signs it and inscribe it on Bitcoin with Ordinals Protocol for permanent storage.
+![](docs/img/significance.jpg)
 
-![](docs/img/qrpaper_theory.jpg)
+## Feature
+1. This is a Bitcoin-native NFT, distinct from other PFP projects are copy from Ethereum.
+2. It's core mission is to strengthen the consensus of the Bitcoin, serving a practical purpose.
+3. It has a robust economic model, capable of long-term and sustainable growth.
+
+## qp-dao
+Everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
+will have the right to join. And you will have the benifits like airdrop, whitelist, 
+vote, reward and vip-role to read our crypto project research report.
+
+## economic
+The core team consists of holders of Bitcoin, Ethereum, and Ordinals WhitePaper NFT, 
+who conduct research on early-stage crypto projects, assist in the publish of 
+WhitePaper NFTs, and provide support for promote.
+
+In return, these projects are expected to reward the core team with a portion of 
+airdrops, whitelist, project tokens, etc.
+
+Non-core members holding NFTs from other projects will receive OG-role (Original Gangster)
+in those projects and will receive ongoing reward from the respective projects.
+
+![](docs/img/economic_model.jpg)
 
 ## Why bitcoin
 1. Bitcoin is the first blockchain, it is the chain with the highest degree of consensus and the highest security
@@ -41,10 +66,6 @@ signs it and inscribe it on Bitcoin with Ordinals Protocol for permanent storage
 2. the address of it is: **12duB7eUwCCqum5rezYJGRy2UDhb4EkeoN**
 3. the taproot address is: **bc1p3lpgz3246uqc87zp8ex7s7q6xka0z9g0djv9n0e2a3gqqlcetl4stwgrqd**
 
-## qp-dao
-Next, we will start the qp-dao, everyone who holds the NFT of the three core qrpaper(bitcoin, ethereum and ordinals) 
-will have the right to join. And you will have the benifits like airdrop, whitelist, vote and so on.
-
 ## core-qrpaper
 * [qrpaper-bitcoin](./qrpaper-bitcoin/)
 * [qrpaper-ethereum](./qrpaper-ethereum/)
@@ -64,7 +85,7 @@ As project, please contact us through email, we can help you with:
 
 ## Example
 This is an example qrpaper, which include the first fragment of the Bitcoin White Paper. 
-The size of it is only about 1~2KB, it's very cheap to inscribe on Bitcoin chain.
+The size of it is only about 1KB, it's very cheap to inscribe on Bitcoin chain.
 
 The image contains four part mainly:
 1. the qrcode imformation in the whole image
