@@ -17,4 +17,4 @@ You must read **"How to inscribe"** carefully, and make sure have done the **"ch
 ## Inscription status
 Please note that this link may have some hours delay, so make sure to check the inscription state yourself before inscribe according to **"check inscribable"** in **"How to inscribe"**
 
-[inscribe status](https://inscription.qrpaper.dedyn.io/inscription/qrpaper-bitcoin.html)
+[inscribe status](https://inscription.qrpaper.dedyn.io/inscription/qrpaper-ethereum.html)
