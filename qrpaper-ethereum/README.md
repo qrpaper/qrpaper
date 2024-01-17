@@ -2,7 +2,7 @@
 
 there is **2017-nfts** and **4-img** you can inscribe
 
-WhiteList user can download and uncompress inscribe file here: **[white list](https://qrpaper.github.io)**
+WhiteList user can download and uncompress inscribe file here: **[white list](https://qrpaper.github.io/whitelist.html)**
 
 Public inscribe will start after 24-hours of whitelist, then can download from **[img](./img)** and **[nfts](./nfts)** directory
 
