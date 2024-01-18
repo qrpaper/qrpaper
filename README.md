@@ -4,9 +4,9 @@
 **Salute to Satoshi, qrpaper makes Bitcoin great forever !!!**
 
 ## Features
-1. This is a Bitcoin-native NFT, distinct from other PFP projects that are copied from Ethereum.
-2. Its core mission is to strengthen the consensus of Bitcoin, serving a practical purpose.
-3. It has a robust economic model, capable of long-term and sustainable growth.
+1. This is a **Bitcoin-native NFT**, distinct from other PFP projects that are copied from Ethereum.
+2. Its core mission is to strengthen the consensus of Bitcoin, serving a **practical purpose**.
+3. It has a **robust economic model**, capable of long-term and sustainable growth.
 
 ## Introduction
 qrpaper is a project that helps crypto projects inscribe whitepaper on Bitcoin with 
