@@ -1,7 +1,7 @@
 # qrpaper 
 
 ## Slogan
-Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
+Salute to Satoshi, qrpaper makes Bitcoin great forever !!!
 
 ## Features
 1. This is a Bitcoin-native NFT, distinct from other PFP projects that are copied from Ethereum.
@@ -10,19 +10,22 @@ Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin.
 
 ## Introduction
 qrpaper is a project that helps crypto projects inscribe whitepaper on Bitcoin with 
-**WhitePaper Sharding Technology**. It converts the whitepaper into 
-plain text format of markdown, and after splitting it into sentences, 
-encodes each sentence into a QR code, signs it, and inscribes it on Bitcoin 
-with Ordinals Protocol for permanent storage.
+**WhitePaper Sharding Technology**.
+
+It converts the whitepaper into plain text format of markdown, and after splitting
+it into sentences, encodes each sentence into a QR code, signs it, and inscribes 
+it on Bitcoin with Ordinals Protocol for permanent storage.
 
 ![](docs/img/qrpaper_theory.jpg)
 
 ## Significance
 As the earliest blockchain, Bitcoin's value mainly comes from consensus, 
 but it is also constantly facing challenges from other public chains. 
+
 In order to consolidate the value of Bitcoin, we put forward the slogan 
-"Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin", 
-which is not only conducive to continuously strengthening the consensus of Bitcoin, 
+**"Salute to Satoshi, every project should inscribe WhitePaper on Bitcoin"**. 
+
+Which is not only conducive to continuously strengthening the consensus of Bitcoin, 
 but also It is beneficial for new projects to be understood and accepted by Bitcoin users.
 
 ![](docs/img/significance.jpg)
