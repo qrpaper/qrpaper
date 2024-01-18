@@ -1,7 +1,7 @@
 # qrpaper 
 
 ## Slogan
-Salute to Satoshi, qrpaper makes Bitcoin great forever !!!
+**Salute to Satoshi, qrpaper makes Bitcoin great forever !!!**
 
 ## Features
 1. This is a Bitcoin-native NFT, distinct from other PFP projects that are copied from Ethereum.
